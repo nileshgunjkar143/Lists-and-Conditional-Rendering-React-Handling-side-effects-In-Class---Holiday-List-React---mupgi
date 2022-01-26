@@ -11,7 +11,7 @@ class App extends Component {
     { name: 'New York', country: 'USA' },
     { name: 'Darjeeling', country: 'India' },
     { name: 'Tokyo', country: 'Japan' },
-
+    { name: 'Lonavala', country: 'India' },
     ]
   }
 
